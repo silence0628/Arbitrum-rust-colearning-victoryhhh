@@ -1,0 +1,11 @@
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task2_balance_checker/target/debug/deps/hashers-ff81bff0781e3b65.d: /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/lib.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/jenkins/mod.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/jenkins/spooky_hash.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/pigeon.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/oz.rs
+
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task2_balance_checker/target/debug/deps/libhashers-ff81bff0781e3b65.rlib: /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/lib.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/jenkins/mod.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/jenkins/spooky_hash.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/pigeon.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/oz.rs
+
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task2_balance_checker/target/debug/deps/libhashers-ff81bff0781e3b65.rmeta: /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/lib.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/jenkins/mod.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/jenkins/spooky_hash.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/pigeon.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/oz.rs
+
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/lib.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/jenkins/mod.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/jenkins/spooky_hash.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/pigeon.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hashers-1.0.1/src/oz.rs:
