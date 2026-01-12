@@ -1,0 +1,11 @@
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/hello_web3/target/debug/deps/alloy_chains-39c791d6fc3f43b3.d: /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/lib.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/chain.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/named.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/spec.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/../README.md
+
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/hello_web3/target/debug/deps/liballoy_chains-39c791d6fc3f43b3.rlib: /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/lib.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/chain.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/named.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/spec.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/../README.md
+
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/hello_web3/target/debug/deps/liballoy_chains-39c791d6fc3f43b3.rmeta: /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/lib.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/chain.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/named.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/spec.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/../README.md
+
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/lib.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/chain.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/named.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/spec.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-chains-0.2.25/src/../README.md:
