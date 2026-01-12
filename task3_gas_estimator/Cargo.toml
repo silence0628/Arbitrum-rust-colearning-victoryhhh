@@ -1,0 +1,8 @@
+[package]
+name = "task3_gas_estimator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ethers = { version = "2", features = ["abigen", "ws", "rustls"] }
+tokio = { version = "1", features = ["rt-multi-thread", "macros"] }
