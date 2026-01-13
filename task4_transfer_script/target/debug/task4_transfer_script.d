@@ -1,0 +1,1 @@
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task4_transfer_script/target/debug/task4_transfer_script: /Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task4_transfer_script/src/main.rs

@@ -1,0 +1,12 @@
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task4_transfer_script/target/debug/deps/serde-b0d14212cd7d5fdf.d: /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task4_transfer_script/target/debug/build/serde-7ceb09fb5009e528/out/private.rs
+
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task4_transfer_script/target/debug/deps/libserde-b0d14212cd7d5fdf.rmeta: /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task4_transfer_script/target/debug/build/serde-7ceb09fb5009e528/out/private.rs
+
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task4_transfer_script/target/debug/build/serde-7ceb09fb5009e528/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task4_transfer_script/target/debug/build/serde-7ceb09fb5009e528/out
