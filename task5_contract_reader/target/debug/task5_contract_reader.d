@@ -1,0 +1,1 @@
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task5_contract_reader/target/debug/task5_contract_reader: /Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task5_contract_reader/src/main.rs

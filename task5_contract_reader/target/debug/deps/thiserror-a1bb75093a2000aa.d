@@ -1,0 +1,12 @@
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task5_contract_reader/target/debug/deps/thiserror-a1bb75093a2000aa.d: /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task5_contract_reader/target/debug/build/thiserror-7ed645f20745b5ae/out/private.rs
+
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task5_contract_reader/target/debug/deps/libthiserror-a1bb75093a2000aa.rmeta: /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task5_contract_reader/target/debug/build/thiserror-7ed645f20745b5ae/out/private.rs
+
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs:
+/Users/a111/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs:
+/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task5_contract_reader/target/debug/build/thiserror-7ed645f20745b5ae/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/a111/Data/hackquest/Arbitrum-rust-colearning-victoryhhh/task5_contract_reader/target/debug/build/thiserror-7ed645f20745b5ae/out
