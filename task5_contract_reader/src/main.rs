@@ -1,8 +1,11 @@
-use ethers::contract::abigen;
+use ethers::abi::Abi;
+use ethers::contract::{abigen, Contract};
 use ethers::providers::{Http, Provider};
 use ethers::types::{Address, U256};
+use serde_json;
 use std::env;
 use std::error::Error;
+use std::fs;
 use std::str::FromStr;
 
 abigen!(
@@ -33,7 +36,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let provider = Provider::<Http>::try_from(rpc_url.clone())?;
 
-    let weth = Weth9::new(contract_address, provider.into());
+    let weth = Weth9::new(contract_address, provider.clone().into());
 
     let name: String = weth.name().call().await?;
     let symbol: String = weth.symbol().call().await?;
@@ -47,6 +50,18 @@ async fn main() -> Result<(), Box<dyn Error>> {
     println!("Token symbol: {}", symbol);
     println!("Token decimals: {}", decimals);
     println!("Total supply (raw): {}", total_supply);
+
+    let abi_path = env::var("WETH_ABI_PATH")
+        .unwrap_or_else(|_| "abis/weth9_minimal.json".to_string());
+    let abi_json = fs::read_to_string(&abi_path)?;
+    let abi: Abi = serde_json::from_str(&abi_json)?;
+
+    let contract = Contract::new(contract_address, abi, provider.clone().into());
+    let name_from_json: String = contract
+        .method::<_, String>("name", ())?
+        .call()
+        .await?;
+    println!("Token name (from JSON ABI): {}", name_from_json);
 
     if let Ok(query_address_str) = env::var("QUERY_ADDRESS") {
         if let Ok(query_address) = Address::from_str(&query_address_str) {
